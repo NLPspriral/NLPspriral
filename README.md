@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm NLPspriral, a college student who is keen on computer science.
+I involve in the college ROBOCON club, where stuents of different majors gather to cooperate in the national college student robot competition, ROBOCON.
 
 <!--
 **NLPspriral/NLPspriral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
